@@ -13,7 +13,7 @@ public class BankAccountApp {
 		
 		
 		
-		String file="F:\\java\\[Ttorial.Com] Practice Java by Building Projects\\Practice Java by Building Projects\\04 Build a New Bank Account Application\\attached files\\022 NewBankAccounts.csv";
+		String file="F:\\java\\NewBankAccounts.csv";
 		
 	/*
 		Checking  chkacc1=new Checking("Bill Gates","123456789",2500.0);
